@@ -1,12 +1,6 @@
 
 # 👁️‍🗨️ **Vigilantech Inc.** – Open‑Design Security & Edge‑AI Cameras
 
-[![GitHub stars](https://img.shields.io/github/stars/vigilantech?style=flat&label=Stars)](https://github.com/vigilantech?tab=stars)
-[![GitHub forks](https://img.shields.io/github/forks/vigilantech?style=flat&label=Forks)](https://github.com/vigilantech/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/vigilantech?style=flat&label=Issues)](https://github.com/vigilantech/issues)
-[![GitHub license](https://img.shields.io/github/license/vigilantech?style=flat&label=License)](https://github.com/vigilantech/blob/main/LICENSE)
-
----
 
 > [!CAUTION]
 > *Vigilantech Inc., its products, personnel, and the “Whispered Cipher” described above are **entirely fictional**.  All names, story elements, source‑code snippets, and technical details were created solely for the purpose of **illustrating common security pitfalls and design mistakes often found in real‑world IoT camera devices**.  No actual company, hardware, or firmware with these exact characteristics exists, and any resemblance to real products, organizations, or individuals is purely coincidental.*
